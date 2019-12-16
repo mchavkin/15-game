@@ -1,0 +1,47 @@
+div{
+  text-align: center;
+}
+
+.panel {
+  width: 350px;
+  margin: auto;
+  margin-bottom: 10px;
+  border-width: 4px;
+  border-style: outset;
+}
+
+
+.field {
+  width: 400px;
+  height: 400px;
+  background-color:#ddd;
+  margin: auto;
+  border-width:4px;
+  border-style:solid;
+  
+  
+}
+.chip{
+  width:92px;
+  height:92px;
+  border-width:4px;
+  border-style:outset;
+  background-color:#bbb;
+  float:left;
+   
+}
+.active:hover{
+  background-color:#888;
+}
+.invisible{
+  opacity:0;
+}
+p {  
+  font: 30px arial;  
+  text-align: center;   
+}
+button {
+  height: 50px;
+  font: 25px arial;
+  margin: 10px
+}
